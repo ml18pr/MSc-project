@@ -1,5 +1,4 @@
 # MSc-project
-project code
 To run the YOLO algorithm, user need download the following files . The URL is as follows: https://pjreddie.com/darknet/yolo/
 
   1.https://github.com/AlexeyAB/darknet/blob/master/cfg/yolov3.cfg
@@ -10,3 +9,5 @@ To run the YOLO algorithm, user need download the following files . The URL is a
  
 
 Clicking the yolov3.weights
+
+When running the program, the user needs to change the ip to the local ip and import the library of tomcat 8.4.7
